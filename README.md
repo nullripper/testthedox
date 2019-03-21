@@ -1,2 +1,2 @@
 # testthedox
-Tests for Sphinx / ReadTheDox / general documentation solutions
+Tests for Sphinx / ReadTheDocs / general documentation solutions
